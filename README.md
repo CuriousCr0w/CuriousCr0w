@@ -2,7 +2,7 @@
 
 👀 I’m interested in data science and analytics, dabble in various languages but my main two are R and Python
 
-🌱 I’m currently learning R,SQL and Java
+🌱 I’m currently learning R and Java
 
 💞️ I’m looking to collaborate on research projects and data analysis
 
