@@ -7,7 +7,6 @@
 💞️ I’m looking to collaborate on research projects and data analysis
 
 📫 Reach me on [Linkedin](https://www.linkedin.com/in/corvus-wright-740723214/)<br>
-Or my email: [corvus.wright@gmail.com](corvus.wright@gmail.com)
 
 
 
